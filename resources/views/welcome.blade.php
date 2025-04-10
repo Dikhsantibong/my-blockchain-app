@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>
-        Selamat Datang Di Dashboard
+        Agil Ganteng bet
     </h1>
 </body>
 </html>
