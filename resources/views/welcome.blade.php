@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>
-        nama saya dikhsan baik hati
+        nama saya dikhsan baik hati sekali
     </h1>
 </body>
 </html>
