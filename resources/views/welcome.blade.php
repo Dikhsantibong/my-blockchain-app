@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>
-        nama saya dikhsan baik hati sekali ;alsdjf;lasdkjfsadsad
+        KELOMPOK 7
     </h1>
 </body>
 </html>
