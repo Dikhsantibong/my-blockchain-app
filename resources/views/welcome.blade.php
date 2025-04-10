@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>
-        KELOMPOK 7
+        Selamat Datang Di Dashboard
     </h1>
 </body>
 </html>
